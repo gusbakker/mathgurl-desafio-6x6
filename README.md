@@ -6,7 +6,7 @@
 
 ### Esta solução foi desenvolvida com o auxílio do chatGPT (GPT-4).
 
-![May-11-2023 21-15-40](https://github.com/gusbakker/mathgurl-desafio-6x6/assets/11593313/3e320ae4-2fcb-47ce-aac9-551957d5cfd5)
+![May-11-2023 21-21-33](https://github.com/gusbakker/mathgurl-desafio-6x6/assets/11593313/e27b3136-704e-45da-87cd-001335a0950d)
 
 
 ### Features:
