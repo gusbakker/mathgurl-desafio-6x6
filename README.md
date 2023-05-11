@@ -1,8 +1,8 @@
-# mathgurl-desafio-6x6
+# Desafio Grelha 6x6
 
 ### Desafio the preencher uma grelha 6x6 com os números de 1 a 8 em cada célula.
-#### Números iguais tem que ter uma distância mínima igual ao seu valor. Por exemplo,
-#### o número 1 tem que estar a uma distância mínima de 1 célula de outro número 1.
+#### Números iguais tem que ter uma distância mínima superior ao seu valor.
+#### Por exemplo, o número 1 tem que estar a uma distância mínima de 2 células do número 1 mais próximo.
 
 ### Esta solução foi desenvolvida com o auxílio do chatGPT (GPT-4).
 
