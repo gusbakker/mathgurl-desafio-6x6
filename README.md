@@ -3,7 +3,8 @@
 ### Challenge to fill a 6x6 grid with numbers from 1 to 8 in each cell.
 #### Equal numbers must have a minimum distance greater than their value.
 For example, the number 1 must be at a minimum distance of 2 cells from the nearest number 1.
-This solution was developed with the assistance of chatGPT (GPT-4).
+
+#### This solution was developed with the assistance of chatGPT (GPT-4).
 
 ![May-11-2023 21-21-33](https://github.com/gusbakker/mathgurl-desafio-6x6/assets/11593313/e27b3136-704e-45da-87cd-001335a0950d)
 
