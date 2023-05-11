@@ -6,7 +6,8 @@
 
 ### Esta solução foi desenvolvida com o auxílio do chatGPT (GPT-4).
 
-![May-11-2023 21-15-40.gif](..%2F..%2F..%2FDownloads%2FMay-11-2023%2021-15-40.gif)
+![May-11-2023 21-15-40](https://github.com/gusbakker/mathgurl-desafio-6x6/assets/11593313/3e320ae4-2fcb-47ce-aac9-551957d5cfd5)
+
 
 ### Features:
 1. **Game:** It uses Pygame GUI
